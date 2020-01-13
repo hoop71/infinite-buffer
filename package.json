@@ -1,14 +1,16 @@
 {
     "name": "infinite-buffer",
     "version": "1.0.0",
-    "description": "",
-    "main": "src/index.ts",
+    "description": "let's keep scrollin'",
     "scripts": {
+        "build": "tsc",
         "lint": "tsc --noEmit && eslint 'src/**/*.{ts}'",
-        "fmt": "prettier --write 'src/**/*.ts'",
+        "fmt": "prettier --write 'src/*j*/*.ts'",
         "test": "jest"
     },
-    "author": "",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "author": "Matt Hooper | hoop71",
     "license": "MIT",
     "devDependencies": {
         "@types/jest": "^24.0.25",
