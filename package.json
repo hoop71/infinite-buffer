@@ -10,7 +10,7 @@
     },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
-    "author": "Matt Hooper | hoop71",
+    "author": "Matt Hooper|hoop71, Zac Bergquist|zmb3",
     "license": "MIT",
     "devDependencies": {
         "@types/jest": "^24.0.25",
