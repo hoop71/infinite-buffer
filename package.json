@@ -1,6 +1,6 @@
 {
     "name": "infinite-buffer",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "description": "let's keep scrollin'",
     "scripts": {
         "build": "tsc",
