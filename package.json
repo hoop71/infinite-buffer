@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/hoop71/infinite-buffer"
+        "url": "git://github.com/hoop71/infinite-buffer.git"
     },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
