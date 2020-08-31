@@ -8,6 +8,9 @@
         "fmt": "prettier --write 'src/*j*/*.ts'",
         "test": "jest"
     },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "author": "Matt Hooper|hoop71, Zac Bergquist|zmb3",
