@@ -11,6 +11,10 @@
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/"
     },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/hoop71/infinite-buffer"
+    },
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "author": "Matt Hooper|hoop71, Zac Bergquist|zmb3",
